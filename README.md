@@ -31,9 +31,3 @@ I'm especially interested in backend development, databases, networking, and sec
 
 <a href="https://www.github.com/PeytonPulliam" target="_blank" rel="noreferrer"><img
                 src="https://img.shields.io/github/followers/PeytonPulliam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PeytonPulliam"><img src="https://github-readme-stats.vercel.app/api?username=PeytonPulliam&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PeytonPulliam's GitHub stats" /></a>
