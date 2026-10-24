@@ -3,12 +3,6 @@
    <img alt="Logo for Peyton Pulliam" src="art/header-light.png">
 </picture>
 
-
-
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Peyton Pulliam
-=======================================================================================================================================
 Computer Science & Cybersecurity | U.S. Air Force Data Engineering Airman
 
 I'm developing my skills in software engineering, data engineering, and cybersecurity, with a focus on building practical systems and understanding how they work.
