@@ -5,7 +5,7 @@
 
 
 
-                                                                           Computer Science & Cybersecurity | U.S. Air Force Data Engineering Airman
+                                                 Computer Science & Cybersecurity | U.S. Air Force Data Engineering Airman
 
 
 🔧 Technical Skills
