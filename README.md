@@ -3,11 +3,10 @@
    <img alt="Logo for Peyton Pulliam" src="art/header-light.png">
 </picture>
 
-Computer Science & Cybersecurity | U.S. Air Force Data Engineering Airman
 
-I'm developing my skills in software engineering, data engineering, and cybersecurity, with a focus on building practical systems and understanding how they work.
 
-I'm especially interested in backend development, databases, networking, and security engineering.
+                                                                           Computer Science & Cybersecurity | U.S. Air Force Data Engineering Airman
+
 
 🔧 Technical Skills
 
